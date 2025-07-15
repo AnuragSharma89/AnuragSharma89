@@ -1,6 +1,6 @@
 <!-- 🎉 Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=100&section=header&text=Hey!%20I’m%20Anurag&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=250&section=header&text=Hey!%20I’m%20Anurag&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ⌨️ Typing Effect -->
@@ -68,5 +68,5 @@
 ---
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B86E5,36D1DC&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5B86E5,36D1DC&height=150" />
 </p>
