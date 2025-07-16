@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=66CCFF&center=true&vCenter=true&width=450&lines=Front-End+Developer+%F0%9F%92%BB;C%2B%2B+%7C+DSA+%7C+OOP+Enthusiast;Open+Source+Contributor;Lifelong+Learner" />
 </p>
 
-<p align="center">
-  <img src="https://sdmntprcentralus.oaiusercontent.com/files/00000000-b3a4-61f5-b2ca-327f338d1019/raw?se=2025-07-15T08%3A44%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=40486974-a20e-5bd6-b937-67331cc54c8a&skoid=5c72dd08-68ae-4091-b4e1-40ccec0693ae&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-15T07%3A03%3A51Z&ske=2025-07-16T07%3A03%3A51Z&sks=b&skv=2024-08-04&sig=2cBs4CIGmlY/wOajuzrLxgP5TfL%2BKScZJbdkj2O2Dyo%3D" width="400" height="400" alt="Anime Style Developer Animation"/>
-</p>
 
 ---
 
